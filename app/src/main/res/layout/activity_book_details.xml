@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primaryBackground">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <!-- BOOK IMAGE -->
+
+        <ImageView
+            android:id="@+id/imgBook"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@android:drawable/ic_menu_gallery"
+            android:scaleType="centerCrop"
+            android:background="@color/cardBackground"/>
+
+        <!-- BOOK TITLE -->
+
+        <TextView
+            android:id="@+id/txtTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Book Title"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textColor="@color/darkText"
+            android:layout_marginTop="24dp"/>
+
+        <!-- AUTHOR -->
+
+        <TextView
+            android:id="@+id/txtAuthor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Author Name"
+            android:textSize="16sp"
+            android:textColor="@color/lightText"
+            android:layout_marginTop="8dp"/>
+
+        <!-- PRICE -->
+
+        <TextView
+            android:id="@+id/txtPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="R250"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="@color/darkText"
+            android:layout_marginTop="20dp"/>
+
+        <!-- CONDITION -->
+
+        <TextView
+            android:id="@+id/txtCondition"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Good Condition"
+            android:textSize="14sp"
+            android:textColor="@color/lightText"
+            android:layout_marginTop="6dp"/>
+
+        <!-- SELLER DETAILS CARD -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/cardBackground"
+            android:padding="20dp"
+            android:layout_marginTop="30dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Seller Details"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/darkText"/>
+
+            <TextView
+                android:id="@+id/txtSeller"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Seller: John Doe"
+                android:textSize="14sp"
+                android:textColor="@color/lightText"
+                android:layout_marginTop="16dp"/>
+
+            <TextView
+                android:id="@+id/txtISBN"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ISBN: 978123456789"
+                android:textSize="14sp"
+                android:textColor="@color/lightText"
+                android:layout_marginTop="10dp"/>
+
+        </LinearLayout>
+
+        <!-- DESCRIPTION -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Description"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/darkText"
+            android:layout_marginTop="30dp"/>
+
+        <TextView
+            android:id="@+id/txtDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Book description goes here..."
+            android:textSize="14sp"
+            android:textColor="@color/lightText"
+            android:layout_marginTop="12dp"/>
+
+        <!-- MESSAGE BUTTON -->
+
+        <Button
+            android:id="@+id/btnMessageBuyer"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:text="Message Seller"
+            android:textAllCaps="false"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@color/buttonGray"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="30dp"/>
+
+    </LinearLayout>
+
+</ScrollView>
