@@ -34,7 +34,7 @@ View Listings Screen
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/9048521d-ff1c-449b-9f8f-f1264b384aa8" />
 
 Book Details Screen
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/7552b3ac-0bf9-4a9d-8560-f82249b8e301" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/2a0abfff-9a80-4506-a920-522ec8686ac5" />
 
 Chat Screen
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a4e981ae-39d5-4635-b04d-7add206fc894" />
