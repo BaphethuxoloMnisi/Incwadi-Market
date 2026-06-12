@@ -40,13 +40,17 @@ Chat Screen
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a4e981ae-39d5-4635-b04d-7add206fc894" />
 
 Installation
-1. Clone the repository
-2. Open the project in Android Studio
-3. Allow Gradle to sync
-4. Run the application using an emulator or Android device.
+git clone https://github.com/BaphethuxoloMnisi/Incwadi-Market.git
 
-Deployment
-The application has been prepared for deployment using a signed Android App Bundle (AAB) generated through Android Studio.
+Deploymennt
+Deployment Package:
+app-release.aab
+
+Deployment Platform:
+Amazon Appstore
+
+Source Core Repository:
+https://github.com/BaphethuxoloMnisi/Incwadi-Market
 
 Author
 Baphethuxolo Mnisi
