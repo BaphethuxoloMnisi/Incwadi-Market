@@ -24,20 +24,15 @@ Application Workflow
 7. Complete the interaction
 
 Screenshots
-Home Screen
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/4b7e73a9-66ae-4ce5-ad94-0e31e85d4335" />
+Home Screen <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/4b7e73a9-66ae-4ce5-ad94-0e31e85d4335" />
 
-Login Screen
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/3b0c2fea-4152-4b58-80ee-ddb86ecf4fcc" />
+Login Screen <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/3b0c2fea-4152-4b58-80ee-ddb86ecf4fcc" />
 
-View Listings Screen
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/9048521d-ff1c-449b-9f8f-f1264b384aa8" />
+View Listings Screen <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/9048521d-ff1c-449b-9f8f-f1264b384aa8" />
 
-Book Details Screen
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/2a0abfff-9a80-4506-a920-522ec8686ac5" />
+Book Details Screen <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/2a0abfff-9a80-4506-a920-522ec8686ac5" />
 
-Chat Screen
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a4e981ae-39d5-4635-b04d-7add206fc894" />
+Chat Screen <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a4e981ae-39d5-4635-b04d-7add206fc894" />
 
 Installation
 git clone https://github.com/BaphethuxoloMnisi/Incwadi-Market.git
