@@ -24,7 +24,7 @@ Application Workflow
 7. Complete the interaction
 
 Screenshots
-Home Screen <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/4b7e73a9-66ae-4ce5-ad94-0e31e85d4335" />
+Home Screen <img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/4b7e73a9-66ae-4ce5-ad94-0e31e85d4335" />
 
 Login Screen <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/3b0c2fea-4152-4b58-80ee-ddb86ecf4fcc" />
 
